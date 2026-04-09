@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "portfolioOs": "PORTFOLIO OS",
+    "apps": "APPS",
+    "newApp": "New app",
+    "logout": "↩ SIGN OUT"
+  },
+  "login": {
+    "title": "Sign in",
+    "subtitle": "Exclusive access to your Portfolio OS.",
+    "email": "Email",
+    "password": "Password",
+    "show": "SHOW",
+    "hide": "HIDE",
+    "submit": "Sign in",
+    "submitting": "Verifying…",
+    "error": "Invalid credentials.",
+    "fillAll": "Please fill in all fields.",
+    "footer": "FORGE v1.0"
+  },
+  "tabs": {
+    "roadmap": "Roadmap",
+    "branding": "Branding",
+    "backlog": "Backlog",
+    "docs": "Docs",
+    "launch": "Launch"
+  },
+  "stats": {
+    "launch": "LAUNCH",
+    "tasks": "TASKS"
+  },
+  "app": {
+    "noApps": "No apps yet",
+    "noAppsHint": "Create your first app from the sidebar.",
+    "loading": "Loading…",
+    "name": "Name",
+    "tagline": "Tagline",
+    "color": "Color",
+    "stage": "Stage",
+    "newApp": "New app",
+    "editApp": "Edit",
+    "deleteApp": "Delete app",
+    "deleteAppConfirm": "Delete app '{name}' and all its data? This cannot be undone.",
+    "save": "Save",
+    "saving": "Saving…",
+    "create": "Create app",
+    "creating": "Creating…",
+    "cancel": "Cancel"
+  },
+  "stages": {
+    "idea": "Idea",
+    "mvp": "MVP",
+    "beta": "Beta",
+    "launch": "Launch",
+    "active": "Active"
+  },
+  "roadmap": {
+    "done": "done",
+    "addTask": "+ add task",
+    "taskPlaceholder": "Task description…",
+    "add": "Add",
+    "newSprintPlaceholder": "New sprint name…",
+    "addSprint": "+ Sprint",
+    "deleteSprintConfirm": "Delete sprint '{name}' and all its tasks?",
+    "deleteTaskConfirm": "Delete this task?"
+  },
+  "branding": {
+    "colors": "Color palette",
+    "fonts": "Typography",
+    "assets": "Assets",
+    "addColor": "+ color",
+    "addFont": "+ font",
+    "colorNamePlaceholder": "Name (e.g. Primary)",
+    "fontRolePlaceholder": "Role (e.g. Headings)",
+    "fontFamilyPlaceholder": "Family (e.g. Plus Jakarta Sans)",
+    "deleteColorConfirm": "Delete this color?",
+    "deleteFontConfirm": "Delete this font?",
+    "deleteAssetConfirm": "Delete this file?",
+    "uploadHint": "⌃  Click to upload logo, icon or screenshot",
+    "uploading": "Uploading…",
+    "formats": "PNG · SVG · JPG · WEBP",
+    "save": "Save"
+  },
+  "backlog": {
+    "addIdea": "+ new idea",
+    "titlePlaceholder": "Idea title…",
+    "descPlaceholder": "Description (optional)…",
+    "save": "Save",
+    "cancel": "Cancel",
+    "toRoadmap": "→ roadmap",
+    "promoted": "→ ROADMAP",
+    "deleteConfirm": "Delete this idea?",
+    "promoteTitle": "Which sprint to add to?",
+    "newSprint": "+ New sprint",
+    "newSprintPlaceholder": "Sprint name…",
+    "addToSprint": "Add to sprint",
+    "adding": "Adding…"
+  },
+  "docs": {
+    "newDoc": "+ new doc",
+    "titlePlaceholder": "Title…",
+    "selectDoc": "Select a document.",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "delete",
+    "deleteConfirm": "Delete document '{title}'?",
+    "emptyHint": "No content — press Edit to start."
+  },
+  "launch": {
+    "pipeline": "Launch pipeline"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "confirm": "Confirm",
+    "close": "Close"
+  }
+}

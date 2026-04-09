@@ -1,0 +1,122 @@
+{
+  "nav": {
+    "portfolioOs": "PORTFOLIO OS",
+    "apps": "APPS",
+    "newApp": "Nueva app",
+    "logout": "↩ SALIR"
+  },
+  "login": {
+    "title": "Iniciar sesión",
+    "subtitle": "Acceso exclusivo a tu Portfolio OS.",
+    "email": "Email",
+    "password": "Contraseña",
+    "show": "VER",
+    "hide": "OCULTAR",
+    "submit": "Entrar",
+    "submitting": "Verificando…",
+    "error": "Credenciales incorrectas.",
+    "fillAll": "Completa todos los campos.",
+    "footer": "FORGE v1.0"
+  },
+  "tabs": {
+    "roadmap": "Roadmap",
+    "branding": "Branding",
+    "backlog": "Backlog",
+    "docs": "Docs",
+    "launch": "Launch"
+  },
+  "stats": {
+    "launch": "LAUNCH",
+    "tasks": "TAREAS"
+  },
+  "app": {
+    "noApps": "Sin apps todavía",
+    "noAppsHint": "Crea tu primera app desde el sidebar.",
+    "loading": "Cargando…",
+    "name": "Nombre",
+    "tagline": "Tagline",
+    "color": "Color",
+    "stage": "Stage",
+    "newApp": "Nueva app",
+    "editApp": "Editar",
+    "deleteApp": "Borrar app",
+    "deleteAppConfirm": "¿Borrar la app '{name}' y todos sus datos? Esta acción no se puede deshacer.",
+    "save": "Guardar",
+    "saving": "Guardando…",
+    "create": "Crear app",
+    "creating": "Creando…",
+    "cancel": "Cancelar"
+  },
+  "stages": {
+    "idea": "Idea",
+    "mvp": "MVP",
+    "beta": "Beta",
+    "launch": "Launch",
+    "active": "Activa"
+  },
+  "roadmap": {
+    "done": "done",
+    "addTask": "+ agregar tarea",
+    "taskPlaceholder": "Descripción de la tarea…",
+    "add": "Add",
+    "newSprintPlaceholder": "Nombre del nuevo sprint…",
+    "addSprint": "+ Sprint",
+    "deleteSprintConfirm": "¿Borrar el sprint '{name}' y todas sus tareas?",
+    "deleteTaskConfirm": "¿Borrar esta tarea?"
+  },
+  "branding": {
+    "colors": "Paleta de colores",
+    "fonts": "Tipografías",
+    "assets": "Assets",
+    "addColor": "+ color",
+    "addFont": "+ fuente",
+    "colorNamePlaceholder": "Nombre (ej. Primary)",
+    "fontRolePlaceholder": "Rol (ej. Headings)",
+    "fontFamilyPlaceholder": "Familia (ej. Plus Jakarta Sans)",
+    "deleteColorConfirm": "¿Borrar este color?",
+    "deleteFontConfirm": "¿Borrar esta fuente?",
+    "deleteAssetConfirm": "¿Borrar este archivo?",
+    "uploadHint": "⌃  Haz clic para subir logo, ícono o screenshot",
+    "uploading": "Subiendo…",
+    "formats": "PNG · SVG · JPG · WEBP",
+    "save": "Guardar"
+  },
+  "backlog": {
+    "addIdea": "+ nueva idea",
+    "titlePlaceholder": "Título de la idea…",
+    "descPlaceholder": "Descripción (opcional)…",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "toRoadmap": "→ roadmap",
+    "promoted": "→ ROADMAP",
+    "deleteConfirm": "¿Borrar esta idea?",
+    "promoteTitle": "¿A qué sprint agregar?",
+    "newSprint": "+ Nuevo sprint",
+    "newSprintPlaceholder": "Nombre del sprint…",
+    "addToSprint": "Agregar al sprint",
+    "adding": "Agregando…"
+  },
+  "docs": {
+    "newDoc": "+ nuevo doc",
+    "titlePlaceholder": "Título…",
+    "selectDoc": "Selecciona un documento.",
+    "edit": "Editar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "borrar",
+    "deleteConfirm": "¿Borrar el documento '{title}'?",
+    "emptyHint": "Sin contenido — presiona Editar para comenzar."
+  },
+  "launch": {
+    "pipeline": "Pipeline de lanzamiento"
+  },
+  "common": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Borrar",
+    "edit": "Editar",
+    "add": "Agregar",
+    "confirm": "Confirmar",
+    "close": "Cerrar"
+  }
+}
